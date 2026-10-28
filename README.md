@@ -28,7 +28,7 @@ The notebook was built in Databricks and its source paths point at a Databricks 
 
 Claude (Anthropic's AI assistant) was used to help set up this repository: creating the GitHub repo, drafting the initial README, and adding the license files. It was not used for any analysis.
 
-All data collection, analysis, and conclusions were done by hand with non-AI methods. Nothing in the data, the notebook, or the charts was generated or altered by AI. The raw data, the processing steps, and the outputs are all included in this repository so that every result can be audited and replicated independently.
+All data collection, analysis, and conclusions were done by hand with non-AI methods. Nothing in the data or the charts was generated or altered by AI. The notebook was built by hand through the Databricks Designer interface, a human-operated tool. Designer auto-generates the short descriptions and code headers on each cell (for example "Read CSV file with specified options"), but the choice and order of steps, and the logic of each, are the author's. The raw data, the processing steps, and the outputs are all included in this repository so that every result can be audited and replicated independently.
 
 ## Licensing
 
