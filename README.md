@@ -24,6 +24,12 @@ Analysis of how Portland Police Bureau (PPB) response times have changed against
 
 The notebook was built in Databricks and its source paths point at a Databricks volume. To rerun it elsewhere, change the file paths in the `source_*` cells to the files under `Raw Data/`.
 
+## AI disclosure
+
+Claude (Anthropic's AI assistant) was used to help set up this repository: creating the GitHub repo, drafting the initial README, and adding the license files. It was not used for any analysis.
+
+All data collection, analysis, and conclusions were done by hand with non-AI methods. Nothing in the data, the notebook, or the charts was generated or altered by AI. The raw data, the processing steps, and the outputs are all included in this repository so that every result can be audited and replicated independently.
+
 ## Licensing
 
 - **Code** (the notebook): [MIT](LICENSE).
