@@ -60,8 +60,7 @@ This pattern (response time increases, workload does not) begins after the Georg
 
 | | |
 |---|---|
-| ![Change in response time](<Change in Response Time.png>) | ![Indexed monthly trends](IndexedMonthlyTrends.png) |
-| ![Workload vs response time](WorkloadvResponseTime.png) | |
+| ![Indexed monthly trends](IndexedMonthlyTrends.png) | ![Workload vs response time](WorkloadvResponseTime.png) |
 
 ## Repository layout
 
